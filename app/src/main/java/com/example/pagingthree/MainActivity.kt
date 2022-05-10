@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.pagingthree.adapter.RvAdapter
 import com.example.pagingthree.databinding.ActivityMainBinding
 import com.example.pagingthree.viewmodel.MainViewModel
-import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.collectLatest
 
 class MainActivity : AppCompatActivity() {
